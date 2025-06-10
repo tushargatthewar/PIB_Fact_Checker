@@ -3,6 +3,9 @@ project
 
 # 📢 PIB Fact Checker using AI, ChromaDB & Streamlit
 
+## project Demo Link
+https://www.youtube.com/watch?v=ovT2XzT3Vec
+
 This project is an AI-powered Fact Checking system designed to verify user-entered claims against authenticated news facts from the **Press Information Bureau (PIB), Government of India**.
 
 ---
