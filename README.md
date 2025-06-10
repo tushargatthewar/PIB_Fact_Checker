@@ -133,20 +133,9 @@ All PIB facts embeddings are stored in **ChromaDB** under the `chroma_data` dire
 
 ---
 
-## ✨ **Future Enhancements**
-
-- Multi-language support (Hindi, regional)
-- Fact checking across social media
-- Full PIB article (not just headlines) processing
-
----
 
 ## 🤝 **Contributors**
 
-- **Your Name** — Developer & Designer
+- **Your Name** — Tushar gatthewar
 
----
 
-## 📜 **License**
-
-This project is for educational and research purposes only.
