@@ -7,7 +7,7 @@ url = "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3"
 
 # Fetch the RSS feed
 response = requests.get(url)
-response.raise_for_status()  # Check for HTTP errors
+response.raise_for_status()  
 
 # Parse the XML data
 soup = BeautifulSoup(response.content, 'xml')
